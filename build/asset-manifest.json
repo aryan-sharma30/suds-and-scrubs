@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.85c1ddce.css",
+    "main.js": "/static/js/main.373464f1.js",
+    "static/js/453.bfd8e29b.chunk.js": "/static/js/453.bfd8e29b.chunk.js",
+    "static/media/car-wash-bg.jpeg": "/static/media/car-wash-bg.56409c0a17c2d22142b7.jpeg",
+    "index.html": "/index.html",
+    "main.85c1ddce.css.map": "/static/css/main.85c1ddce.css.map",
+    "main.373464f1.js.map": "/static/js/main.373464f1.js.map",
+    "453.bfd8e29b.chunk.js.map": "/static/js/453.bfd8e29b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.85c1ddce.css",
+    "static/js/main.373464f1.js"
+  ]
+}
