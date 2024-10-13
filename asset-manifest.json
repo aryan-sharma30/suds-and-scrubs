@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/suds-and-scrubs/static/css/main.10b0a235.css",
+    "main.js": "/suds-and-scrubs/static/js/main.3d2074c0.js",
+    "static/js/453.bfd8e29b.chunk.js": "/suds-and-scrubs/static/js/453.bfd8e29b.chunk.js",
+    "static/media/car-wash-bg.jpeg": "/suds-and-scrubs/static/media/car-wash-bg.56409c0a17c2d22142b7.jpeg",
+    "index.html": "/suds-and-scrubs/index.html",
+    "main.10b0a235.css.map": "/suds-and-scrubs/static/css/main.10b0a235.css.map",
+    "main.3d2074c0.js.map": "/suds-and-scrubs/static/js/main.3d2074c0.js.map",
+    "453.bfd8e29b.chunk.js.map": "/suds-and-scrubs/static/js/453.bfd8e29b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.10b0a235.css",
+    "static/js/main.3d2074c0.js"
+  ]
+}
